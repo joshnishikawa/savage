@@ -5,7 +5,7 @@
    y="0"
    width="125mm"
    height="88mm"
-   viewBox="0 0 472.44095 332.59843"
+   viewBox="0 0 125 88"
    id="svg26981"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    sodipodi:docname="curry_and_rice.svg"
@@ -51,9 +51,9 @@
      inkscape:window-height="1035"
      id="namedview27561"
      showgrid="false"
-     inkscape:zoom="0.66604697"
-     inkscape:cx="122.36374"
-     inkscape:cy="236.46981"
+     inkscape:zoom="1.8838653"
+     inkscape:cx="378.47716"
+     inkscape:cy="186.05364"
      inkscape:window-x="4"
      inkscape:window-y="1"
      inkscape:window-maximized="1"
@@ -202,13 +202,14 @@
     </clipPath>
   </defs>
   <g
-     id="Layer_1">
+     id="Layer_1"
+     transform="translate(-11.309012,-10.127958)">
     <g
        id="publicdomainq-0003409flqgqo"
        transform="matrix(1.6463364,0,0,2.0235975,-433.25824,7.9328406)">
       <g
          id="g28105"
-         transform="matrix(0.93076779,0,0,0.93076779,-3.9192131,-3.6045554)">
+         transform="matrix(0.2558828,0,0,0.2558828,195.04154,0.05709098)">
         <path
            style="fill:#fefefe"
            inkscape:connector-curvature="0"

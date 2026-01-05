@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
-   viewBox="0 0 250.2422 296.69801"
+   viewBox="0 0 88 125"
    version="1.1"
    sodipodi:docname="apple.svg"
-   width="66.209915mm"
-   height="78.50135mm"
-   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+   width="88mm"
+   height="125mm"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -29,14 +29,18 @@
      id="namedview192"
      showgrid="false"
      units="mm"
-     inkscape:zoom="1.5795012"
-     inkscape:cx="52.887729"
-     inkscape:cy="136.06773"
+     inkscape:zoom="0.55843801"
+     inkscape:cx="529.15453"
+     inkscape:cy="573.92226"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2"
-     inkscape:document-rotation="0" />
+     inkscape:document-rotation="0"
+     inkscape:showpageshadow="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm" />
   <defs
      id="defs4">
     <linearGradient
@@ -83,10 +87,10 @@
     </radialGradient>
     <filter
        id="filter3834"
-       width="1.0646"
-       y="-0.15894"
-       x="-0.032278001"
-       height="1.3178999"
+       width="1.0645549"
+       y="-0.15894304"
+       x="-0.032277449"
+       height="1.3178861"
        color-interpolation-filters="sRGB">
       <feGaussianBlur
          id="feGaussianBlur3836"
@@ -94,10 +98,10 @@
     </filter>
     <filter
        id="filter3856"
-       width="1.5781"
-       y="-0.55649"
-       x="-0.28907001"
-       height="2.1129999"
+       width="1.5781301"
+       y="-0.55648885"
+       x="-0.28906504"
+       height="2.1129777"
        color-interpolation-filters="sRGB">
       <feGaussianBlur
          id="feGaussianBlur3858"
@@ -105,10 +109,10 @@
     </filter>
     <filter
        id="filter3866"
-       width="1.3227"
-       y="-0.88931"
-       x="-0.16136999"
-       height="2.7786"
+       width="1.322739"
+       y="-0.88930739"
+       x="-0.1613695"
+       height="2.7786148"
        color-interpolation-filters="sRGB">
       <feGaussianBlur
          id="feGaussianBlur3868"
@@ -116,10 +120,10 @@
     </filter>
     <filter
        id="filter3918"
-       width="1.5233999"
-       y="-0.35817999"
-       x="-0.26170999"
-       height="1.7164"
+       width="1.5234196"
+       y="-0.35818196"
+       x="-0.26170979"
+       height="1.7163639"
        color-interpolation-filters="sRGB">
       <feGaussianBlur
          id="feGaussianBlur3920"
@@ -127,17 +131,21 @@
     </filter>
     <filter
        id="filter3956"
-       color-interpolation-filters="sRGB">
+       color-interpolation-filters="sRGB"
+       x="-0.029491924"
+       y="-0.085851919"
+       width="1.0589838"
+       height="1.1717038">
       <feGaussianBlur
          id="feGaussianBlur3958"
          stdDeviation="0.64820792" />
     </filter>
     <filter
        id="filter3974"
-       width="2.1317"
-       y="-0.56585002"
-       x="-0.56585002"
-       height="2.1317"
+       width="2.1317073"
+       y="-0.56585364"
+       x="-0.56585364"
+       height="2.1317073"
        color-interpolation-filters="sRGB">
       <feGaussianBlur
          id="feGaussianBlur3976"
@@ -193,10 +201,10 @@
        y2="511.72" />
     <filter
        id="filter4237"
-       width="1.034"
-       y="-0.10566"
-       x="-0.016987"
-       height="1.2113"
+       width="1.0304924"
+       y="-0.10152851"
+       x="-0.015246203"
+       height="1.203057"
        color-interpolation-filters="sRGB">
       <feGaussianBlur
          id="feGaussianBlur4239"
@@ -339,10 +347,10 @@
        y2="557.54999" />
     <filter
        id="filter4340"
-       width="1.4117"
-       y="-0.68993002"
-       x="-0.20582999"
-       height="2.3799"
+       width="1.4116693"
+       y="-0.68992916"
+       x="-0.20583466"
+       height="2.3798583"
        color-interpolation-filters="sRGB">
       <feGaussianBlur
          id="feGaussianBlur4342"
@@ -350,10 +358,10 @@
     </filter>
     <filter
        id="filter4370"
-       width="1.1697"
-       y="-0.53122997"
-       x="-0.084858999"
-       height="2.0625"
+       width="1.1336691"
+       y="-0.26269277"
+       x="-0.066834561"
+       height="1.5253855"
        color-interpolation-filters="sRGB">
       <feGaussianBlur
          id="feGaussianBlur4372"
@@ -361,40 +369,40 @@
     </filter>
     <filter
        id="filter4380"
-       y="-0.22635999"
-       width="1.6888"
-       x="-0.34437999"
-       height="1.4527">
+       y="-0.22636053"
+       width="1.6887592"
+       x="-0.3443796"
+       height="1.4527211">
       <feGaussianBlur
          id="feGaussianBlur4382"
          stdDeviation="1.7211216" />
     </filter>
     <filter
        id="filter4484"
-       y="-0.11133"
-       width="1.0337"
-       x="-0.016849"
-       height="1.2227">
+       y="-0.11132751"
+       width="1.0336981"
+       x="-0.01684903"
+       height="1.222655">
       <feGaussianBlur
          id="feGaussianBlur4486"
          stdDeviation="0.54079066" />
     </filter>
     <filter
        id="filter4498"
-       y="-0.43893999"
-       width="2.3174"
-       x="-0.65872002"
-       height="1.8779">
+       y="-0.41056985"
+       width="2.6012224"
+       x="-0.80061121"
+       height="1.8211397">
       <feGaussianBlur
          id="feGaussianBlur4500"
          stdDeviation="6.6717601" />
     </filter>
     <filter
        id="filter3821-8"
-       width="1.1252"
-       y="-0.14699"
-       x="-0.062599003"
-       height="1.294"
+       width="1.1251968"
+       y="-0.14699524"
+       x="-0.062598377"
+       height="1.2939905"
        color-interpolation-filters="sRGB">
       <feGaussianBlur
          id="feGaussianBlur3823-6"
@@ -403,7 +411,7 @@
   </defs>
   <g
      id="layer1"
-     transform="translate(-37.00055,-748.3097)">
+     transform="matrix(0.35059751,0,0,0.35059751,-12.972312,-250.71378)">
     <path
        id="path4344"
        filter="url(#filter4370)"
